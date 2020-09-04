@@ -3,6 +3,7 @@
 We all joined the AI Dungeon in the class. AI Dungeon is a generative text website which created a story by input the keywords. It was really interesting to read the story created by computer. I enjoyed it. 
 
 <img width="1276" alt="AI Dungeon" src="https://user-images.githubusercontent.com/68985217/92239899-14210180-eeff-11ea-86c7-23498b9a251a.png">
+
 ### Class Activity – Electronic Literature
 I watched Future World exhibition when I was in Singapore four years ago. The great installation and visual interaction left me a deep impression. 
 
