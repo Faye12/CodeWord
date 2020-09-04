@@ -10,7 +10,7 @@ We were divided as a four people group to discuss the book we read recently. I i
 
 ### Minecraft Walkthrough
 After lunch the whole class played around in Minecraft Melbourne. It was my first time to play Minecraft, I felt a bit lost especially when some other classmates showed their skill in the game. After the class I played in library tutorial to learn some basics in Minecraft.
-![Minecraft_Melbourne](https://user-images.githubusercontent.com/68985217/92202130-a4405600-eec1-11ea-9669-00b4fb549a45.JPG)
+![Minecraft_Melburne](https://user-images.githubusercontent.com/68985217/92203185-e66a9700-eec3-11ea-880f-1a69215a51e6.JPG)
 
 ### Coding demonstrate
 Karen demonstrated us coding in Processing. As a code beginner, I l felt overwhelming. There was too much information that I need to learn. After the class, I read some tutorial before I jumped into the homework. I tried to figure out the meaning of every single words in Karen’s code. I created my first sketch of the letter F.
