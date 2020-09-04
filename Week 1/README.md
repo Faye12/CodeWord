@@ -14,5 +14,6 @@ After lunch the whole class played around in Minecraft Melbourne. It was my firs
 
 ### Coding demonstrate
 Karen demonstrated us coding in Processing. As a code beginner, I l felt overwhelming. There was too much information that I need to learn. After the class, I read some tutorial before I jumped into the homework. I tried to figure out the meaning of every single words in Karen’s code. I created my first sketch of the letter F.
+
 ![letter F](https://user-images.githubusercontent.com/68985217/92202741-f9c93280-eec2-11ea-816e-b02cb1afca1a.gif)
 
