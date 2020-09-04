@@ -16,12 +16,12 @@ When the viewers touch these pictographs, the gods emerge from them and influenc
 
 The world of the story extends out in 360 degrees. The gods that are created from the pictographs influence each other's positions in space, as well as their physical characteristics, behavior, and relationships to one another. They are also affected when they are touched by the viewers, and their movement through space is calculated in real time. As in real life, viewers never experience the same story twice; you are continually creating a new experience.
 
-###### *Story of the time when the Gods First Descended | teamLab. 2020. Story Of The Time When The Gods First Descended | Teamlab. [online] Available at: <https://www.teamlab.art/w/gods1stdescended/> 
-###### *Shirakawa, Shizuka. Kanji: Oitachi to Sono Haikei. Iwanami Shoten, 1970.
-###### *Matsuoka Seigō. Shirakawa Shizuka: Kanji No Sekaikan. Heibonsha, 2008.
+###### *Story of the time when the Gods First Descended | teamLab. 2020. Story Of The Time When The Gods First Descended | Teamlab. [online] Available at: <https://www.teamlab.art/w/gods1stdescended/>*
+###### *Shirakawa, Shizuka. Kanji: Oitachi to Sono Haikei. Iwanami Shoten, 1970.*
+###### *Matsuoka Seigō. Shirakawa Shizuka: Kanji No Sekaikan. Heibonsha, 2008.*
 
 ### Assignment 2 (Best Minecraft)
-The rest of our group continue working on the script. Both Siyang Wen (Win) and I are in charge of story board. In the story board, we referred a lot of movie scenes, and used realistic and abstractive way of narration to illustrate Johnny’s inner world and the experience of transforming himself to Zampano.
+The rest of our group continued working on the script. Both Siyang Wen (Win) and I were in charge of story board. In the story board, we referred a lot of movie scenes, and used realistic and abstractive way of narration to illustrate Johnny’s inner world and the experience of transforming himself to Zampano.
 
 ![storyboard-01](https://user-images.githubusercontent.com/68985217/92240129-72e67b00-eeff-11ea-958b-d3fcca0890bd.jpg)
 ![storyboard-02](https://user-images.githubusercontent.com/68985217/92240270-ad501800-eeff-11ea-9a28-9809ce42a8d3.jpg)
