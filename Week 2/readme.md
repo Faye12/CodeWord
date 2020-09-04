@@ -17,6 +17,7 @@ Wim Crouwel is a virtuoso of experimentation, who combined rigorous structural l
 
 ### House of Leaves
 My group is working on the introduction part of House of Leaves. House of leave is a thrilled novel written by Mark Z. Danielwski. I personally love suspense thriller. So when I read the introduction part, I was scared but addicted by the book. I read the chapter twice and listed down all the key point on notebook to fully understand the article. Each group member worked on different part of the script and posted the summary on Google doc.
+
 <img width="587" alt="screenshot 1" src="https://user-images.githubusercontent.com/68985217/92221226-82a29700-eee0-11ea-9e1d-1284218143cc.png">
 <img width="608" alt="screenshot 2" src="https://user-images.githubusercontent.com/68985217/92221235-87674b00-eee0-11ea-8233-ea59b9491d6a.png">
 
