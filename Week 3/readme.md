@@ -8,7 +8,8 @@ We all joined the AI Dungeon in the class. AI Dungeon is a generative text websi
 I watched Future World exhibition when I was in Singapore four years ago. The great installation and visual interaction left me a deep impression. 
 
 <img width="1043" alt="Team Lab" src="https://user-images.githubusercontent.com/68985217/92239961-2e5adf80-eeff-11ea-8e2b-415d905ed5e5.png">
-###### *Story of the time when the Gods First Descended
+
+###### *Story of the time when the Gods First Descended*
 
 In the ancient world, in a time when gods were everywhere—in the rocks; in the waterfalls; in the sun and the moon—it is said that people created pictographs in order to communicate with the gods.
 
