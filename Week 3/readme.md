@@ -15,10 +15,8 @@ In the ancient world, in a time when gods were everywhere—in the rocks; in the
 When the viewers touch these pictographs, the gods emerge from them and influence each other to create a story. And viewers touch the gods, it makes an even deeper impact on the world, and the story transforms.
 
 The world of the story extends out in 360 degrees. The gods that are created from the pictographs influence each other's positions in space, as well as their physical characteristics, behavior, and relationships to one another. They are also affected when they are touched by the viewers, and their movement through space is calculated in real time. As in real life, viewers never experience the same story twice; you are continually creating a new experience.
-
+###### *References
 ###### *Story of the time when the Gods First Descended | teamLab. 2020. Story Of The Time When The Gods First Descended | Teamlab. [online] Available at: <https://www.teamlab.art/w/gods1stdescended/>*
-###### *Shirakawa, Shizuka. Kanji: Oitachi to Sono Haikei. Iwanami Shoten, 1970.*
-###### *Matsuoka Seigō. Shirakawa Shizuka: Kanji No Sekaikan. Heibonsha, 2008.*
 
 ### Assignment 2 (Best Minecraft)
 The rest of our group continued working on the script. Both Siyang Wen (Win) and I were in charge of story board. In the story board, we referred a lot of movie scenes, and used realistic and abstractive way of narration to illustrate Johnny’s inner world and the experience of transforming himself to Zampano.
