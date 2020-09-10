@@ -17,6 +17,5 @@ Karen demonstrated us coding in Processing. As a code beginner, I l felt overwhe
 
 ![letter F](https://user-images.githubusercontent.com/68985217/92202741-f9c93280-eec2-11ea-816e-b02cb1afca1a.gif)
 
-[*Play here*]
-(https://faye12.github.io/CodeWord/Week_1/Letter_F/)
+[Play here](https://faye12.github.io/CodeWord/Week_1/Letter_F/).
 
