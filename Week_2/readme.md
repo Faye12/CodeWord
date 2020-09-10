@@ -25,5 +25,6 @@ My group is working on the introduction part of House of Leaves. House of leave 
 ### Coding Homework
 In the homework, we were asked to choose one of other sketch on Google slide and made small changes. I decided to choose Napasorn’s letter “N” by changing its colours, shapes and movement.
 ![letter N](https://user-images.githubusercontent.com/68985217/92222256-13c63d80-eee2-11ea-8c20-362003e1eaf3.gif)
+
 [Play here](https://faye12.github.io/CodeWord/Week_2/Letter_N/).
 
