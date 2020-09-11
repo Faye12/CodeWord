@@ -8,7 +8,8 @@ Like what I said before, we had a [detailed plan](https://docs.google.com/docume
 Instead of showing the scary or bloody scenes simply by using loud noise and sudden movements to make the audiences jump, our group chose to slowly build up a creepy atmosphere through the use of music, sound effect, long shots, close up, fast cut, scenery shot and montage.
 
 I really appreciate the great effect done by the whole team. Tim was the platform controller. He had to leave the program run for whole night, so that the rest of us could continue working in Minecraft. However, his computer was almost broken by overheat. For Bridie and Peem, whenever I asked help for shooting, they would respond me fast in the chat and be my actors in the game. To achieve the best result in the audio, Win learnt GarageBand himself and tried out different effect on his voice. He stayed up for the refinement even the others thought the result is already good enough. 
-[Check out our final video here](https://youtu.be/uiOQQN-uh4c)
+
+[Final video](https://youtu.be/uiOQQN-uh4c)
 
 ### Group Activities 
 In the afternoon, we work as a small group to summarize the text in the reader that Andy and Karen provided. I choose "Generative Design: Redefining the Designer" by Yolanda Zappaterra.
