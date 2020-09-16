@@ -1,4 +1,4 @@
-## Article
+## Poetics in the Expanded Field: Textual, Visual, Digital...
 
 A new framework, of visual projection, overlays the “speech chain” of the communication model, and we begin to complicate, beyond the possibility of a comprehensive reading, the display with textual blocks and graphic elements that cancel each other out until there is only one exit available—the looming eye at the bottom of the page.
 
