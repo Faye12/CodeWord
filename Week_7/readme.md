@@ -3,10 +3,9 @@
 A new framework, of visual projection, overlays the “speech chain” of the communication model, and we begin to complicate, beyond the possibility of a comprehensive reading, the display with textual blocks and graphic elements that cancel each other out until there is only one exit available—the looming eye at the bottom of the page.
 
 ## Paper Prototype
-
 ![all](https://user-images.githubusercontent.com/68985217/93348501-9f908000-f879-11ea-907f-6ccf2b01f8ec.gif)
 
-
+## Paper Prototype Breakdown
 The screen stars with “speech chain” which is a 3D dimension text ring could be rotated by mouse movement.
 ![1](https://user-images.githubusercontent.com/68985217/93348460-94d5eb00-f879-11ea-9164-8ed416914d2f.gif)
 
