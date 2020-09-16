@@ -16,5 +16,5 @@ A new framework, of visual projection, overlays the “speech chain” of the co
 3. Textual blocks and shapes automatically drop from one side to the other, meanwhile duplicate itself which creates movement track. 
 ![3](https://user-images.githubusercontent.com/68985217/93348475-99020880-f879-11ea-97c6-8a8686eb352d.gif)
 
-4. Textual block and shapes disappear. There is an eye in the end, and the movement of the eye follows the mouse.
+4. Textual block and shapes disappear. There is a textual eye in the end, and the movement of the eye follows the mouse.
 ![4](https://user-images.githubusercontent.com/68985217/93348549-b3d47d00-f879-11ea-8db2-8f532fcf8176.gif)
