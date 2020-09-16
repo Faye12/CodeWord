@@ -6,7 +6,7 @@ A new framework, of visual projection, overlays the “speech chain” of the co
 ![all](https://user-images.githubusercontent.com/68985217/93348501-9f908000-f879-11ea-907f-6ccf2b01f8ec.gif)
 
 ## Paper Prototype Breakdown
-1. The screen stars with “speech chain” which is a 3D dimension text ring could be rotated by mouse movement.
+1. The screen stars with “speech chain” which is a 3D dimension text ring could be rotated or adjust the gap by mouse movement.
 ![1](https://user-images.githubusercontent.com/68985217/93348460-94d5eb00-f879-11ea-9164-8ed416914d2f.gif)
 
 
