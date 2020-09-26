@@ -3,3 +3,5 @@ I just thinking the colourful ellipse can be replaced by mutifple text rings (te
 [tryout](https://faye12.github.io/CodeWord/majorProject/tryout1/majorProject_tryout1).
 
 [reference](https://faye12.github.io/CodeWord/majorProject/tryout1/majorProject_reference1).
+
+[tryout2](https://faye12.github.io/CodeWord/majorProject/tryout1/majorProject_tryout1).
