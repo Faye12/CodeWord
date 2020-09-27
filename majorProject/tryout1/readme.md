@@ -1,7 +1,7 @@
 
-[tryout](https://faye12.github.io/CodeWord/majorProject/tryout1/majorProject_tryout1).
+[tryout](https://faye12.github.io/CodeWord/majorProject/tryout1/majorProject_tryout1/).
 
-[reference 1](https://faye12.github.io/CodeWord/majorProject/tryout1/majorProject_reference1).
+[reference 1](https://faye12.github.io/CodeWord/majorProject/tryout1/majorProject_reference1/).
 
 [tryout 2](https://faye12.github.io/CodeWord/majorProject/tryout1/majorProject_tryout2/).
 
