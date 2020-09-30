@@ -11,4 +11,4 @@ I am processing the major project, check out the link of some experiences below 
 
 [TRYOUT 5](https://faye12.github.io/CodeWord/majorProject/majorProject_practice4/).
 
-:point_left:[TRYOUT 6](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout5/).:point_right:
+:point_right:[TRYOUT 6](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout5/).:point_left:
