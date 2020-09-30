@@ -1,5 +1,5 @@
 ### HEY!
-I am processing the major project, check out the link of my try out below :smiley:
+I am processing the major project, check out the link of some experiences below :smiley:
 
 [TRYOUT 1](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout1/).
 
