@@ -10,3 +10,5 @@ I am processing the major project, check out the link of some experiences below 
 [TRYOUT 4](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout4/).
 
 [TRYOUT 5](https://faye12.github.io/CodeWord/majorProject/majorProject_practice4/).
+
+[TRYOUT 6](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout5/).
