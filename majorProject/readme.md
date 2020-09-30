@@ -2,8 +2,9 @@
 I am processing the major project, check out the link of some experiences below :smiley:
 
 A new framework, of visual projection, overlays the “speech chain” of the communication model, and we begin to complicate, beyond the possibility of a comprehensive reading, the display with textual blocks and graphic elements that cancel each other out until there is only one exit available—the looming eye at the bottom of the page.
-*Poetics in the Expanded Field: Textual, Visual, Digital…
-*By Barrett Watten
+
+* Poetics in the Expanded Field: Textual, Visual, Digital…
+* By Barrett Watten
 
 
 [TRYOUT 1](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout1/).
