@@ -18,3 +18,28 @@ A new framework, of visual projection, overlays the “speech chain” of the co
 
 4. Textual block and shapes disappear. There is a textual eye in the end, and the movement of the eye follows the mouse.
 ![4](https://user-images.githubusercontent.com/68985217/93348549-b3d47d00-f879-11ea-8db2-8f532fcf8176.gif)
+
+## Pseudocode
+Function START
+Loop music(‘DNA’);
+DISPLAY text ring rotate 
+
+Function MOUSEPRESS 
+(Change Mode);
+
+If mouse pressed
+Print (Mode 1);
+textual rings rotate as 3D space 
+adjust the gap among the rings
+
+Else If
+Mouse pressed 
+Print (Mode 2);
+shapes fade off 
+textual blocks cancel each other 
+
+Display background (‘Blooming Eye’)
+Blooming Eye (mouseX/4,mouseY/4);
+
+When Mode > 2
+Function Restart 
