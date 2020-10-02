@@ -21,7 +21,7 @@ Finally, I decided I am going to interpret this paragraph because I feel the wor
 ### Group Activities
 We practice making and using paper-prototypes of popular retro 2D video-games in a group activity. Some of us including myself don’t familiar with video game. So we decide to make prototype by choosing the most classic game Asteroid. It is really fun to use paper to demonstrate how the game is functioning. And I also enjoy our classmates demonstrate their game in the class!
 
-
+![Asteroids](https://user-images.githubusercontent.com/68985217/94888020-2620a080-04bb-11eb-813f-795fdf5638b9.gif)
 
 
 
