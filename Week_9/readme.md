@@ -21,3 +21,10 @@ I explore shapes and text in 3D camera.
 [Play here](https://faye12.github.io/CodeWord/majorProject/majorProject_practice1/).
 
 After these experiments, I realise I have to tweak my original idea of text rings since I can’t find a way to write the text on the circle in 3D perspective. So I decide either use image on text as texture apply on the 3D shape instead.
+![bubble](https://user-images.githubusercontent.com/68985217/94926415-1bd6c480-0504-11eb-8fd1-4a96830ea97f.gif)
+
+[Play Here](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout4/).
+
+![rotate](https://user-images.githubusercontent.com/68985217/94926411-19746a80-0504-11eb-9f97-ef674c7f774b.gif)
+
+[Play Here](https://faye12.github.io/CodeWord/majorProject/majorProject_practice4/).
