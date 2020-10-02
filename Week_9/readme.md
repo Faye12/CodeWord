@@ -9,9 +9,15 @@ I am panic especially notice that some of our classmate are quite good with codi
 I explore shapes and text in 3D camera.
 
 ![circle](https://user-images.githubusercontent.com/68985217/94922032-cc40ca80-04fc-11eb-85fe-5f555f0f39d0.gif)
+
 [Play Here](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout1/).
 
 ![text](https://user-images.githubusercontent.com/68985217/94922024-c8ad4380-04fc-11eb-8094-7ef2362a4fa8.gif)
 
+[Play here](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout2/).
+
 ![shape](https://user-images.githubusercontent.com/68985217/94922042-d1057e80-04fc-11eb-88fa-1c6c5ee6ab41.gif)
+
+[Play here](https://faye12.github.io/CodeWord/majorProject/majorProject_practice1/).
+
 After these experiments, I realise I have to tweak my original idea of text rings since I can’t find a way to write the text on the circle in 3D perspective. So I decide either use image on text as texture apply on the 3D shape instead.
