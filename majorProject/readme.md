@@ -17,4 +17,6 @@ A new framework, of visual projection, overlays the “speech chain” of the co
 
 [TRYOUT 5](https://faye12.github.io/CodeWord/majorProject/majorProject_practice4/).
 
-:point_right:[TRYOUT 6](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout5/).:point_left:
+[TRYOUT 6](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout5/)
+
+:point_right:[TRYOUT 7](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout5/).:point_left:
