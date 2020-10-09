@@ -21,4 +21,4 @@ A new framework, of visual projection, overlays the “speech chain” of the co
 
 :point_right:[TRYOUT 7](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout7/).:point_left:
 
-[TRYOUT 6](https://faye12.github.io/CodeWord/majorProject/camera_move_poseNet/)
+[TRYOUT 8](https://faye12.github.io/CodeWord/majorProject/camera_move_poseNet/)
