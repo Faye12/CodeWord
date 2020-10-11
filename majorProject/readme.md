@@ -17,10 +17,10 @@ A new framework, of visual projection, overlays the “speech chain” of the co
 
 [TRYOUT 5](https://faye12.github.io/CodeWord/majorProject/majorProject_practice4/).
 
-[TRYOUT 6](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout5/)
+[TRYOUT 6](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout5/) (speech chains rotate)
 
-[TRYOUT 7](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout7/)(looming eye follows mouse movement)
+[TRYOUT 7](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout7/) (looming eye follows mouse movement)
 
-[TRYOUT 8](https://faye12.github.io/CodeWord/majorProject/camera_move_poseNet/)(camera poseNet/mask)
+[TRYOUT 8](https://faye12.github.io/CodeWord/majorProject/camera_move_poseNet/) (camera poseNet/mask)
 
 :point_right:[TRYOUT 9](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout8/).:point_left: (looming eye follows camera movements)
