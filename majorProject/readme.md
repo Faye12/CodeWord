@@ -25,4 +25,4 @@ A new framework, of visual projection, overlays the “speech chain” of the co
 
 :point_right:[TRYOUT 9](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout8/).:point_left: (looming eye follows camera movements)
 
-[TRYOUT 9](https://faye12.github.io/CodeWord/majorProject/majorProject_speechBlock/) (speech block appear&disppear)
+[TRYOUT 10](https://faye12.github.io/CodeWord/majorProject/majorProject_speechBlock/) (speech block appear&disppear)
