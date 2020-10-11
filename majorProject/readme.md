@@ -23,6 +23,6 @@ A new framework, of visual projection, overlays the “speech chain” of the co
 
 [TRYOUT 8](https://faye12.github.io/CodeWord/majorProject/camera_move_poseNet/) (camera poseNet/mask)
 
-:point_right:[TRYOUT 9](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout8/).:point_left: (looming eye follows camera movements)
+:point_right:[TRYOUT 9](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout8/).:point_left: (looming eye follows camera movements, it is lagging pls be patient)
 
 [TRYOUT 10](https://faye12.github.io/CodeWord/majorProject/majorProject_speechBlock/) (speech block appear&disppear)
