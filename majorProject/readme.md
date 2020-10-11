@@ -27,4 +27,4 @@ A new framework, of visual projection, overlays the “speech chain” of the co
 
 [TRYOUT 10](https://faye12.github.io/CodeWord/majorProject/majorProject_speechBlock/) (speech block appear&disppear)
 
-[TRYOUT 11](https://faye12.github.io/CodeWord/majorProject/majorProject_speechBlock/)
+[TRYOUT 11](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout13/)
