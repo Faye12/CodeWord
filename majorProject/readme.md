@@ -32,4 +32,4 @@ A new framework, of visual projection, overlays the “speech chain” of the co
 
 :point_right:[Final](https://faye12.github.io/CodeWord/majorProject/MajorProject_Final/).
 
-[Final 1](https://faye12.github.io/CodeWord/majorProject/MajorProject_tryout14/).
+
