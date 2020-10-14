@@ -23,8 +23,10 @@ A new framework, of visual projection, overlays the “speech chain” of the co
 
 [TRYOUT 8](https://faye12.github.io/CodeWord/majorProject/camera_move_poseNet/) (camera poseNet/mask)
 
-:point_right:[TRYOUT 9](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout8/).:point_left: (looming eye follows camera movements, it is lagging pls be patient :crying_cat_face:)
+[TRYOUT 9](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout8/)(looming eye follows camera movements, it is lagging pls be patient :crying_cat_face:)
 
 [TRYOUT 10](https://faye12.github.io/CodeWord/majorProject/majorProject_speechBlock/) (speech block appear&disppear)
 
 [TRYOUT 11](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout13/) (What I need help: 1. song autoplay when it loads instead of mousepress; 2. differentiate the texture of foreground box and backgound rotating text, the foreground texture is "image", the background texture is "bubble"; 3. the mousemovement only affect backgound rotating text, not foreground box.
+
+:point_right:[Final](https://faye12.github.io/CodeWord/majorProject/majorProject_final/).:point_left: 
