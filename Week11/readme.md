@@ -15,5 +15,10 @@ What I wanted to improve here:
 
 so I consulted Karen, see whether she could me some suggestions. Karen replied me very fast, she said curently processing doesn't support auto play, and if I wanted to differentiate the texture and movement, I have to sepereate the canvas. And she suggested me to take a look at the muti-canvas test she did before.
 
+I tried to seperate canvas individually and accidently came out this interesting result.
+
 ![3](https://user-images.githubusercontent.com/68985217/96602420-b9bcf280-133e-11eb-98b8-a838c0049640.gif)
 
+
+
+[play here](https://faye12.github.io/CodeWord/majorProject/MajorProject_clone/) 
