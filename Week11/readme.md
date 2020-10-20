@@ -32,5 +32,5 @@ But I still got trouble to make it work with different canvas, because my code i
 
 ![text](https://user-images.githubusercontent.com/68985217/96613973-54233300-134b-11eb-962d-3ed191a624f0.gif)
 
-[Play here](https://faye12.github.io/CodeWord/majorProject/Week11/MajorProject_refmultiCanvas).
+[click and drag to play around](https://faye12.github.io/CodeWord/majorProject/MajorProject_clone/) 
 
