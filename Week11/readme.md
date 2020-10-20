@@ -21,7 +21,7 @@ I started from the easiest, only use simple objects on two different canvas in 3
 
 ![4](https://user-images.githubusercontent.com/68985217/96607657-4b7b2e80-1344-11eb-8a11-87b15336d977.gif)
 
-[Play here](https://faye12.github.io/CodeWord/majorProject/Week11/MajorProject_refmultiCanvas).
+[Play here](https://faye12.github.io/CodeWord/Week11/MajorProject_refmultiCanvas/).
 
 I tried to seperate canvas individually and accidently came out this interesting result.
 
