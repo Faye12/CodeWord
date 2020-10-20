@@ -21,7 +21,7 @@ I started from the easiest, only use simple objects on two different canvas in 3
 
 ![4](https://user-images.githubusercontent.com/68985217/96607657-4b7b2e80-1344-11eb-8a11-87b15336d977.gif)
 
-[Play here](https://faye12.github.io/CodeWord/Week11/MajorProject_refmultiCanvas/).
+[Play here](https://faye12.github.io/CodeWord/Week_11/MajorProject_refmultiCanvas/).
 
 I tried to seperate canvas individually and accidently came out this interesting result.
 
@@ -33,5 +33,5 @@ But I still got trouble to make it work with different canvas, because my code i
 
 ![text](https://user-images.githubusercontent.com/68985217/96613973-54233300-134b-11eb-962d-3ed191a624f0.gif)
 
-[click and drag to play around](https://faye12.github.io/CodeWord/majorProject/MajorProject_clone/) 
+[Play here](https://faye12.github.io/CodeWord/Week_11/MajorProject_tryout15/) 
 
