@@ -32,6 +32,5 @@ I tried to seperate canvas individually and accidently came out this interesting
 But I still got trouble to make it work with different canvas, because my code is too complicate with the function like "class" "camera" "translate". The multi-canvas example are too simple which didn't introduce how to translate these function. I struggled a lot and spent a lot of time on these but still can't figure out. But the good thing was I differentiated the texture.
 
 ![12](https://user-images.githubusercontent.com/68985217/96613097-4620e280-134a-11eb-9f0c-9ea7b134d373.gif)
-
-[Play here](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout13/)
+[Play here](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout15/)
 
