@@ -11,15 +11,17 @@ After made this, I was thinking anything else I could add on to make it more int
 [Play here](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout13/)
 
 What I wanted to improve here:
-1. song autoplay when it loads instead of mousepress; 2. differentiate the texture of foreground box and backgound rotating text 3. the mousemovement only affect backgound rotating text, not foreground box.
+1. song autoplay when it loads instead of mousepress; 
+2. differentiate the texture of foreground box and backgound rotating text 
+3. the mousemovement only affect backgound rotating text, not foreground box.
 
 so I consulted Karen, see whether she could me some suggestions. Karen replied me very fast, she said curently processing doesn't support auto play, and if I wanted to differentiate the texture and movement, I have to sepereate the canvas. And she suggested me to take a look at the muti-canvas test she did before.
 
-I started from the easiest, only use simple objects in two canvas in 3D space.
+I started from the easiest, only use simple objects on two different canvas in 3D space.
 
 ![4](https://user-images.githubusercontent.com/68985217/96607657-4b7b2e80-1344-11eb-8a11-87b15336d977.gif)
 
-[TRYOUT 1](https://faye12.github.io/CodeWord/majorProject/Week11/MajorProject_refmultiCanvas).
+[Play here](https://faye12.github.io/CodeWord/majorProject/Week11/MajorProject_refmultiCanvas).
 
 I tried to seperate canvas individually and accidently came out this interesting result.
 
