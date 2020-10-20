@@ -20,5 +20,4 @@ I tried to seperate canvas individually and accidently came out this interesting
 ![3](https://user-images.githubusercontent.com/68985217/96602420-b9bcf280-133e-11eb-98b8-a838c0049640.gif)
 
 
-
-[play here](https://faye12.github.io/CodeWord/majorProject/MajorProject_clone/) 
+[click and drag to play around](https://faye12.github.io/CodeWord/majorProject/MajorProject_clone/) 
