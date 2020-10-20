@@ -19,7 +19,8 @@ I found some PoseNet reference online, but I can't play it on my computer. But l
 
 [Play here](https://faye12.github.io/CodeWord/majorProject/camera_move_poseNet/)
 
-After that, I modified the script so the textual looming eye could follow human's movement, so it gave a feeling that someone is watching you. This is what I made below, you can play here. but I found the computer was super laging, and the movement was not that smooth, so I had to drop off this idea.
+After that, I modified the script so the textual looming eye could follow human's movement, so it gave a feeling that someone is watching you. This is what I made below, you can play here. But I found the computer was super laging after using poseNet. Meanwhile, the movement was not that smooth, so I had to drop off this idea.
+
 ![poseNet2](https://user-images.githubusercontent.com/68985217/96581742-03e5aa00-1326-11eb-905f-b1942fe2aea5.gif)
 
 [Play here](https://faye12.github.io/CodeWord/majorProject/majorProject_tryout8/)
