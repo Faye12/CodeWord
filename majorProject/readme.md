@@ -29,7 +29,7 @@ A new framework, of visual projection, overlays the “speech chain” of the co
 
 [TRYOUT 11](https://faye12.github.io/CodeWord/majorProject/MajorProject_clone/) (What I need help: 1. song autoplay when it loads instead of mousepress; 2. differentiate the texture of foreground box and backgound rotating text, the foreground texture is "image", the background texture is "bubble"; 3. the mousemovement only affect backgound rotating text, not foreground box.
 
-[TRYOUT 12](https://faye12.github.io/CodeWord/majorProject/majorProject_speechBlock/) (try out on multi-canvas)
+[TRYOUT 12](https://faye12.github.io/CodeWord/majorProject/MajorProject_clone/) (try out on multi-canvas)
 
 
 :point_right:[Final](https://faye12.github.io/CodeWord/majorProject/MajorProject_Final/).
