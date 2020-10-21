@@ -33,7 +33,7 @@ After figured out this, I tried to seperate the canvas in my code and accidently
 
 [click and drag to play around](https://faye12.github.io/CodeWord/majorProject/MajorProject_clone/) 
 
-But I still got trouble to make it work with different canvas, because my code is too complicate with the function like "class" "camera" "translate". The multi-canvas example are too simple which didn't introduce how to translate these function. I struggled a lot and spent a lot of time on these but still can't figure out. But the good thing was I differentiated the texture.
+But I still got trouble to make it work with different canvas, because my code was complicated with the function like "class" "camera" "translate". The multi-canvas example are too simple which didn't introduce how to translate these function. I struggled a lot and spent plenty of time on these but still can't figure out. But the good thing was I differentiated the texture.
 
 ![text](https://user-images.githubusercontent.com/68985217/96613973-54233300-134b-11eb-962d-3ed191a624f0.gif)
 
