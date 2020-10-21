@@ -8,3 +8,7 @@ To make the text more readable, I reduced the number of words and enlarge the si
 
 <img width="1344" alt="Screen Shot 2020-10-21 at 6 03 27 pm" src="https://user-images.githubusercontent.com/68985217/96684807-ec5efd80-13c7-11eb-92e8-55ed03984019.png">
 
+![1](https://user-images.githubusercontent.com/68985217/96690621-a5750600-13cf-11eb-885a-af6c7c275661.gif)
+
+:point_right:[Final](https://faye12.github.io/CodeWord/majorProject/MajorProject_Final/).
+
