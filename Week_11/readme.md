@@ -27,7 +27,7 @@ I started from the easiest, only use simple objects on two different canvas in 3
 
 <img width="328" alt="Screen Shot 2020-10-21 at 5 49 17 pm" src="https://user-images.githubusercontent.com/68985217/96683327-c6d0f480-13c5-11eb-9841-238e0b858cf8.png">
 
-I tried to seperate canvas individually and accidently came out this interesting result.
+After figured out this, I tried to seperate the canvas in my code and accidently came out this interesting result.
 
 ![3](https://user-images.githubusercontent.com/68985217/96602420-b9bcf280-133e-11eb-98b8-a838c0049640.gif)
 
