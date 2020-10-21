@@ -19,9 +19,12 @@ so I consulted Karen, see whether she could me some suggestions. Karen replied m
 
 I started from the easiest, only use simple objects on two different canvas in 3D space.
 
+<img width="535" alt="Screen Shot 2020-10-21 at 5 51 54 pm" src="https://user-images.githubusercontent.com/68985217/96683622-2202e700-13c6-11eb-9438-ceab9cc0131a.png">
+
 ![4](https://user-images.githubusercontent.com/68985217/96607657-4b7b2e80-1344-11eb-8a11-87b15336d977.gif)
 
 [Play here](https://faye12.github.io/CodeWord/Week_11/MajorProject_refmultiCanvas/).
+
 <img width="328" alt="Screen Shot 2020-10-21 at 5 49 17 pm" src="https://user-images.githubusercontent.com/68985217/96683327-c6d0f480-13c5-11eb-9841-238e0b858cf8.png">
 
 I tried to seperate canvas individually and accidently came out this interesting result.
