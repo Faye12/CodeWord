@@ -1,4 +1,5 @@
 # Hello! Welcome to my CodeWords :information_desk_person:
+Have fun in my first jouney of Coding.
 ![1](https://user-images.githubusercontent.com/68985217/96690621-a5750600-13cf-11eb-885a-af6c7c275661.gif)
 
 ### [Week 01 ](https://github.com/Faye12/CodeWord/tree/master/Week_1)| An Introduction to Codewords
