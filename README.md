@@ -1,5 +1,5 @@
-# Hello! Welcome to my CodeWords! 
-# Let's enjoy Faye's first jouney of Coding together :information_desk_person:
+# Hello! Welcome to my CodeWords! :information_desk_person:
+## Let's dicover Faye's first jouney of Coding together! :couple:
 
 ![1](https://user-images.githubusercontent.com/68985217/96690621-a5750600-13cf-11eb-885a-af6c7c275661.gif)
 
