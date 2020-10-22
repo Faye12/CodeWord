@@ -15,4 +15,4 @@
 ### [Week 12 ](https://github.com/Faye12/CodeWord/tree/master/Week_12)| Final Development
 
 ### [Magic Textual Space](https://faye12.github.io/CodeWord/majorProject/MajorProject_Final/)| Major Project
-### [House of Leaves Introduction Part](https://youtu.be/uiOQQN-uh4c)| Interpreted in Minecraft
+### [House of Leaves Introduction Part](https://youtu.be/uiOQQN-uh4c)| Interpretation in Minecraft
