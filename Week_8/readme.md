@@ -1,4 +1,4 @@
-# Codewords Week 6 - Final Paper Paper-prototypes 
+# Codewords Week 6 - Final Paper-prototypes 
 
 ## Poetics in the Expanded Field: Textual, Visual, Digital...(Barrett Watten)
 
