@@ -19,7 +19,7 @@ A documentation of Faye’s learning progress in CodeWords class run by Andy Sim
 
 ### [Magic Textual Space](https://faye12.github.io/CodeWord/majorProject/MajorProject_Final/) | Major Project
 ### [House of Leaves Introduction Part](https://youtu.be/uiOQQN-uh4c) | Interpretation in Minecraft
-### [CodeWords Website](https://simandy.github.io/codewords/) | Interpretation in Minecraft
+### [CodeWords Website](https://simandy.github.io/codewords/) | Class Works Showcase
 
 ### Reflection
 
